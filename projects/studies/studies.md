@@ -5,9 +5,9 @@ In the domain of numismatics and ancient economy, there is a long expressed and 
 In the project STUDIES, we propose to rely on recent advances in data harvesting, computer vision and deep learning to automatically estimate the similarity between coins, in order to simplify the die studies. Based on a full matrix of similarity, one can then identify clusters, each being a plausible candidate for a unique die. It will thus be possible to conduct die studies at a much larger scale, one to two orders of magnitude more than the largest studies to date.
 
 ## Results
-We proposed an initial tool to automatically estimate the similarity between coins and conduct automatic die studies from existing collections. 
+We proposed an initial tool to automatically estimate the similarity between coins and conduct automatic die studies from existing collections. We propose a fully automatic approach that introduces several innovations compared to previous methods. We rely on fast and robust local descriptors matching that is set automatically. Second, the core of our proposal is a clustering-based approach that uses an intrinsic metric (that does not need the ground truth labels) to determine its critical hyper-parameters. We validate the approach on two corpora of Greek coins, propose an automatic implementation and evaluation of previous baselines, and show that our approach significantly outperforms them. 
 
-<!--described in:
+**Reference**: Clément Cornet, Héloïse Aumaître, Romaric Besançon, Julien olivier, Thomas Faucher, Hervé Le Borgne, [Automatic Die Studies for Ancient Numismatics](https://arxiv.org/abs/2407.20876), arXiv:2407.20876 , July 2024 <br/>[code (mid-August)]
 
-Clément Cornet, Héloïse Aumaître, Romaric Besançon, Julien olivier, Thomas Faucher, Hervé Le Borgne (2024) **Automatic Die Studies for Ancient Numismatics**, 2024 [arxiv] [code] -->
+
 
