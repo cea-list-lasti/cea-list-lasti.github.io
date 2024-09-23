@@ -7,7 +7,7 @@ In the project STUDIES, we propose to rely on recent advances in data harvesting
 ## Results
 We proposed an initial tool to automatically estimate the similarity between coins and conduct automatic die studies from existing collections. We propose a fully automatic approach that introduces several innovations compared to previous methods. We rely on fast and robust local descriptors matching that is set automatically. Second, the core of our proposal is a clustering-based approach that uses an intrinsic metric (that does not need the ground truth labels) to determine its critical hyper-parameters. We validate the approach on two corpora of Greek coins, propose an automatic implementation and evaluation of previous baselines, and show that our approach significantly outperforms them. 
 
-**Reference**: Clément Cornet, Héloïse Aumaître, Romaric Besançon, Julien olivier, Thomas Faucher, Hervé Le Borgne, [Automatic Die Studies for Ancient Numismatics](https://arxiv.org/abs/2407.20876), arXiv:2407.20876 , July 2024 <br/>[code](https://github.com/ClementCornet/Auto-Die-Studies)
+**Reference**: Clément Cornet, Héloïse Aumaître, Romaric Besançon, Julien olivier, Thomas Faucher, Hervé Le Borgne, [Automatic Die Studies for Ancient Numismatics](https://arxiv.org/abs/2407.20876), 3rd International Workshop on Artificial Intelligence for Digital Humanities ([AI4DH@ECCV](https://sites.google.com/view/ai4dh2024)), September 29, Milan, Italy, 2024 <br/>[code](https://github.com/ClementCornet/Auto-Die-Studies)
 
 
 
