@@ -21,14 +21,63 @@ At the beginning of the project, a quite similar task has been proposed by (Shah
 (...)
 
 # Publications
-(...)
+* **Multi-Level Information Retrieval Augmented Generation for Knowledge-based Visual Question Answering**<br/>
+*Omar Adjali, Paul Grimal, Olivier Ferret, Sahar Ghannay, Hervé Le Borgne*<br/>
+EMNLP 2024
+* **Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video**<br/>
+*Shashanka Venkataramanan, Mamshad Nayeem Rizve, João Carreira, Yuki M. Asano, Yannis Avrithis*<br/>
+ICLR 2024 (oral, top 1.2%) [<img style="width:20px;" src="../../docs/logo_pdf.png"/>](https://arxiv.org/abs/2310.08584) [<img style="width:20px;" src="../../docs/logo_github.png"/>](https://shashankvkt.github.io/dora) Outstanding Paper Awards (Honorable mention)
+* **Probing Pretrained Language Models with Hierarchy Properties**<br/>
+*Jesus Lovon-Melgarejo, Jose Moreno, Romaric Besançon, Olivier Ferret, Lynda Tamine*<br/>
+ECIR 2024  [<img style="width:20px;" src="../../docs/logo_pdf.png"/>](https://arxiv.org/pdf/2312.09670.pdf) [<img style="width:20px;" src="../../docs/logo_github.png"/>](https://github.com/jeslev/hierarchy_properties_plms) also presented at TALN 2024
+* **Cross-modal Retrieval for Knowledge-based Visual Question Answering**<br/>
+*Paul Lerner, Olivier Ferret, Camille Guinaudeau*<br/>
+ECIR 2024 [<img style="width:20px;" src="../../docs/logo_pdf.png"/>](https://arxiv.org/pdf/2401.05736.pdf) [<img style="width:20px;" src="../../docs/logo_github.png"/>](https://github.com/PaulLerner/ViQuAE)
+* **Embedding Space Interpolation Beyond Mini-Batch, Beyond Pairs and Beyond Examples**<br/>
+*Shashanka Venkataramanan, Ewa Kijak, Laurent Amsaleg, Yannis Avrithis*<br/>
+NeurIPS 2023 [<img style="width:20px;" src="../../docs/logo_pdf.png"/>](https://arxiv.org/abs/2311.05538) 
+* **Explicit Knowledge Injection for Knowledge-Aware Visual Question Answering**<br/>
+*Omar Adjali, Paul Grimal, Olivier Ferret, Sahar Ghannay, Hervé Le Borgne*<br/>
+ICMR 2023 [<img style="width:20px;" src="../../docs/logo_pdf.png"/>](https://dl.acm.org/doi/abs/10.1145/3591106.3592227)[<img style="width:20px;" src="../../docs/logo_github.png"/>](https://github.com/OA256864/MEERQAT_Entity)
+* **MEERQAT-IRIT at SemEval-2023 Task 2: Leveraging Contextualized Tag Descriptors for Multilingual Named Entity Recognition**<br/>
+*Jesús Lovón-Melgarejo, José G Moreno, Romaric Besançon, Olivier Ferret, Lynda Lechani*<br/>
+SemEval-2023 [<img style="width:20px;" src="../../docs/logo_pdf.png"/>](https://hal.science/hal-04350288/)
+* **Multimodal Inverse Cloze Task for Knowledge-based Visual Question Answering**<br/>
+*Paul Lerner, Olivier Ferret, and Camille Guinaudeau*<br/>
+ECIR 2023 [<img style="width:20px;" src="../../docs/logo_pdf.png"/>](https://arxiv.org/abs/2301.04366) [<img style="width:20px;" src="../../docs/logo_github.png"/>](https://github.com/PaulLerner/ViQuAE) also presented at TALN 2023
+* **Can We Guide a Multi-Hop Reasoning Language Model to Incrementally Learn at each Single-Hop?**<br/>
+*Jesus Lovon, Jose G. Moreno, Romaric Besançon, Olivier Ferret and Lynda Tamine Lechani*<br/>
+COLING 2022 [<img style="width:20px;" src="../../docs/logo_pdf.png"/>](https://aclanthology.org/2022.coling-1.125/) [<img style="width:20px;" src="../../docs/logo_github.png"/>](https://github.com/jeslev/incremental_reasoning)
+* **ViQuAE, a Dataset for Knowledge-based Visual Question Answering about Named Entities**<br/>
+*Paul Lerner, Olivier Ferret, Camille Guinaudeau, Hervé Le Borgne, Romaric Besançon, José G. Moreno, Jesús Lovón Melgarejo*<br/>
+SIGIR 2022 [<img style="width:20px;" src="../../docs/logo_pdf.png"/>](https://hal.universite-paris-saclay.fr/hal-03650618/document) [<img style="width:20px;" src="../../docs/logo_github.png"/>](https://github.com/PaulLerner/ViQuAE)
+* **AlignMixup: Improving representations by interpolating aligned features**<br/>
+*Shashanka Venkataramanan, Yannis Avrithis, Ewa Kijak, Laurent Amsaleg*<br/>
+CVPR 2022 [<img style="width:20px;" src="../../docs/logo_pdf.png"/>](https://arxiv.org/abs/2103.15375) [<img style="width:20px;" src="../../docs/logo_github.png"/>](https://github.com/shashankvkt/AlignMixup_CVPR22)
+* **It Takes Two to Tango: Mixup for Deep Metric Learning**<br/>
+*Shashanka Venkataramanan, Bill Psomas, Ewa Kijak, Laurent Amsaleg, Konstantinos Karantzalos, Yannis Avrithis*<br/>
+ICLR 2022 [<img style="width:20px;" src="../../docs/logo_pdf.png"/>](https://arxiv.org/pdf/2106.04990.pdf) [<img style="width:20px;" src="../../docs/logo_github.png"/>](https://github.com/billpsomas/Metrix_ICLR22.git)
+
+### In French
+* **Un jeu de données pour répondre à des questions visuelles à propos d’entités nommées**<br/>
+*Paul Lerner, Salem Messoud, Olivier Ferret, Camille Guinaudeau, Hervé Le Borgne, Romaric Besançon, Jose Moreno and Jesús Lovón-Melgarejo*<br/>
+Traitement Automatique des Langues 2023 – numéro spécial dédié au TAL inter-/multimodal (numéro 63-2)
+* **Reconnaissance d’Entités Nommées fondée sur des Modèles de Langue Enrichis avec des Définitions de Types d’Entités**<br/>
+*Jesus Lovon-Melgarejo, Jose Moreno, Romaric Besançon, Olivier Ferret, Lynda Tamine*<br/>
+TALN 2023 
+* **Recherche cross-modale pour répondre à des questions visuelles**<br/>
+*Paul Lerner, Olivier Ferret, Camille Guinaudeau*<br/>
+CORIA-TALN 2023 [<img style="width:20px;" src="../../docs/logo_pdf.png"/>](https://hal.science/hal-04131549/)
+* **Un jeu de données pour répondre à des questions visuelles à propos d’entités nommées en utilisant des bases de connaissances**<br/>
+*Paul Lerner, Olivier Ferret, Camille Guinaudeau, Hervé Le Borgne, Romaric Besançon, Jose Moreno and Jesús Lovón-Melgarejo*<br/>
+TALN 2022 [<img style="width:20px;" src="../../docs/logo_pdf.png"/>](https://aclanthology.org/2022.jeptalnrecital-taln.43.pdf) [<img style="width:20px;" src="../../docs/logo_github.png"/>](https://github.com/PaulLerner/ViQuAE)
 
 # Partners
 The project was conducted by four partners:
-* the **CEA List** institute achieves technology transfer in the field of smart digital systems. The team involved works both in computer vision and computational linguistics, relying on machine learning. In particular, it works on Entity Linking and cross-modal retrieval using textual-visual joint spaces . It has a strong experience in evaluation campaign organization (e.g Retrieving Diverse Social Images task at Media-Eval from 2013 to 2017) and participation. <u>Persons</u>: Omar Adjali, Romaric Besançon, Olivier Ferret and Hervé Le Borgne.
-* the **INRIA** participates with team LinkMedia, focusing on content-based media linking and aiming to create explicit links at different levels to reflect context: at signal level, e.g. repeating patterns, or at a semantic level, e.g. to follow topics or stories. The team has in particular a strong experience in computer vision. It has pioneered research in large-scale visual retrieval and nearest neighbor search and holds state of the art with conventional features and more recent deep visual representations, including manifold learning. <u>Persons</u>: Laurent Amsaleg, Yannis Avrithis and Ewa Kijak, Shashank Venkataramanan
-* **IRIT** represents one of the most important potential in computer science research in Southern France. The 24 research teams of the laboratory are structured into seven scientific topics that cover all the fields of computing sciences. Jose Moreno and Yoann Pitarch are associate professors and Lynda Tamine is a full professor, all them members of the IRIS team. Their more related work to the project focuses on textual-graph representation and entity embedding, and their applications. <u>Persons</u>: Jesús Lovón, Jose Moreno and Lynda Tamine
-* **LISN** was created on january 2021, integrating the LRI and LIMSI. This last has a strong expertise in natural language processing. Anne Vilnat, professor, Sahar Ghannay, assistant professor, and Anne-Laure Ligozat, associate professor, are members of the ILES group and work on entity linking, representation learning, information extraction and question answering from textual data. Camille Guinaudeau, associate professor from the TLP group, is interested in person identification in multimedia documents and information retrieval in multimodal data. <u>Persons</u>: Sahar Ghannay, Camille Guinaudeau, Paul Lerner and Anne Vilnat
+* the **CEA List** institute achieves technology transfer in the field of smart digital systems. The team involved works both in computer vision and computational linguistics, relying on machine learning. In particular, it works on Entity Linking and cross-modal retrieval using textual-visual joint spaces . It has a strong experience in evaluation campaign organization (e.g Retrieving Diverse Social Images task at Media-Eval from 2013 to 2017) and participation.<br/> <u>Persons</u>: Omar Adjali, Romaric Besançon, Olivier Ferret and Hervé Le Borgne.
+* the **INRIA** participates with the team LinkMedia, focusing on content-based media linking and aiming to create explicit links at different levels to reflect context: at signal level, e.g. repeating patterns, or at a semantic level, e.g. to follow topics or stories. The team has in particular a strong experience in computer vision. It has pioneered research in large-scale visual retrieval and nearest neighbor search and holds state of the art with conventional features and more recent deep visual representations, including manifold learning.<br/> <u>Persons</u>: Laurent Amsaleg, Yannis Avrithis and Ewa Kijak, Shashank Venkataramanan
+* **IRIT** represents one of the most important potential in computer science research in Southern France. The 24 research teams of the laboratory are structured into seven scientific topics that cover all the fields of computing sciences. Jose Moreno and Yoann Pitarch are associate professors and Lynda Tamine is a full professor, all them members of the IRIS team. Their more related work to the project focuses on textual-graph representation and entity embedding, and their applications.<br/> <u>Persons</u>: Jesús Lovón, Jose Moreno and Lynda Tamine
+* **LISN** was created on january 2021, integrating the LRI and LIMSI. This last has a strong expertise in natural language processing. Anne Vilnat, professor, Sahar Ghannay, assistant professor, and Anne-Laure Ligozat, associate professor, are members of the ILES group and work on entity linking, representation learning, information extraction and question answering from textual data. Camille Guinaudeau, associate professor from the TLP group, is interested in person identification in multimedia documents and information retrieval in multimodal data.<br/> <u>Persons</u>: Sahar Ghannay, Camille Guinaudeau, Paul Lerner and Anne Vilnat
 # Contact
 For any question, let write to [Hervé Le Borgne](https://hleborgne.github.io/) who was the project coordinator.
 
