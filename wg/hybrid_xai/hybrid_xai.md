@@ -1,4 +1,4 @@
-# IA explicable hybride pour signal - Image
+# IA explicable hybride pour signal et image
 
 IAehsi est un [Groupe de travail GDR-IASIS](https://gdr-iasis.cnrs.fr/groupes-de-travail/)
 
@@ -27,4 +27,4 @@ A l'issue du GT (avril 2026) nous proposerons une synthèse de l’état de l’
 ## Animation
 * [Jenny Benois-Pineau](https://www.labri.fr/projet/AIV/jennybenoispineau.php) (LABRI UMR 5800)
 * [Alexandre Benoit](https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/alexandre-benoit/) (LISTIC, UR 3703)
-* [Hervé Le Borgne](https://hleborgne.github.io/) (CEA LIST). 
+* [Hervé Le Borgne](https://hleborgne.github.io/) (CEA LIST)
