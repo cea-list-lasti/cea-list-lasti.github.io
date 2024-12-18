@@ -21,9 +21,12 @@ At the beginning of the project, a quite similar task has been proposed by (Shah
 (...)
 
 # Publications
+* **Entity-Aware Cross-Modal Pretraining for Knowledge-based Visual Question Answering**<br/>
+*Omar Adjali, Paul Grimal, Olivier Ferret, Sahar Ghannay, Hervé Le Borgne*<br/>
+ECIR 2025
 * **Multi-Level Information Retrieval Augmented Generation for Knowledge-based Visual Question Answering**<br/>
 *Omar Adjali, Paul Grimal, Olivier Ferret, Sahar Ghannay, Hervé Le Borgne*<br/>
-EMNLP 2024
+EMNLP 2024 [<img style="width:20px;" src="../../docs/logo_pdf.png"/>](https://aclanthology.org/2024.emnlp-main.922.pdf)
 * **Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video**<br/>
 *Shashanka Venkataramanan, Mamshad Nayeem Rizve, João Carreira, Yuki M. Asano, Yannis Avrithis*<br/>
 ICLR 2024 (oral, top 1.2%) [<img style="width:20px;" src="../../docs/logo_pdf.png"/>](https://arxiv.org/abs/2310.08584) [<img style="width:20px;" src="../../docs/logo_github.png"/>](https://shashankvkt.github.io/dora) Outstanding Paper Awards (Honorable mention)
